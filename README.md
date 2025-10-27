@@ -108,6 +108,7 @@
    - Scratchpad + highlight/annotation (persisted per question).
    - Bubble and grid-in interactions with validation (warn on incomplete grid-in answer formatting).
 
+
 ### Phase 3 — Analytics & Adaptive Engine
 1. **Telemetry collection** (frontend): question open time, interactions, changes, flagged status, guessed indicator.
 2. **Backend analytics service**
